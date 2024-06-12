@@ -1,0 +1,6 @@
+parameterDetails.txt
+/__pycache__
+/flickr8k
+/runs
+/test_examples
+my_checkpoint.pth.tar
